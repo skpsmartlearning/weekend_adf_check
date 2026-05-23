@@ -1,0 +1,15 @@
+{
+	"name": "datafactorynew835",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc46e128-724e-4e56-87dc-a182d2f22004",
+		"tenantId": "780a5da5-11cb-4b1c-a0f0-1e0bdbe18552"
+	}
+}
